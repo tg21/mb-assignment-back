@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"mbassignment.employees"}],"uuid":"1cc7b0f91988411eb9c9ac01a6c62666"}
